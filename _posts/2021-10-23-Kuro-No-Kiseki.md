@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kuro no Kiseki Review"
-author: JO
+author: jer
 categories: [ Jekyll, tutorial ]
 image: assets/images/kuro.png
 featured: true
